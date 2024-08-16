@@ -2,14 +2,14 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://msk-robin.github.io/Happy-birthday-2023/)
+#### [See it Live](https://msk-krishnanandan.github.io/Happy-birthday-2024/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
-I created this to celebrate my 2023 birthday and thank friends for their warm regards.
+I created this to celebrate my 2024 birthday and thank friends for their warm regards.
 
 I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday-2023 page in a few easy steps:
+You can create your very own happy-birthday-2024 page in a few easy steps:
 
 * Fork the repository
 * Open `customize.json` and replace the content with your own
@@ -22,8 +22,7 @@ I've created the JSON file (`customize.json`) for easy and quick customizability
 
 Please note that this is a starter's project and I cannot be held liable for any issues discovered.
 
-Feel free to [get in touch with me](mailto:robinapy@outlook.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/msk_robin) as well. :)
-
+Feel free to [get in touch with me](raykrishna308@gmail.com) if you need any help with it. 
 
 ## Contributing
 
